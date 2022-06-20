@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the a repository of Volt Europa. The the Pan-European Political Movement.
+This is code from Volt Europa. The Pan-European Political Movement.
 
 <!--
 

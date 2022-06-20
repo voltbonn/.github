@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is code from Volt Europa. The Pan-European Political Movement.
+### We are Volt Europa! The Pan-European Political Movement.
 
 ![Flag of the European Union](https://api.volt.link/download_url?f=webp&w=1000&h=1000&url=https%3A%2F%2Fassets.volteuropa.org%2F2022-05%2FIMG_4428-querkant.jpg)
 
